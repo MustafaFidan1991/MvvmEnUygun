@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">En Uygun</string>
+
+
+
+    <string name="duration_day">%1$d gün</string>
+    <string name="duration_hour">%1$d saat</string>
+    <string name="duration_minute">%1$d minute</string>
+
+    <string name="baggage_person">%1$s/kişi</string>
+
+    <string name="currency_tr">TL</string>
+
+
+
+    <string name="seconds_ago">%1$s saniye önce</string>
+    <string name="minutes_ago">%1$s dakika önce</string>
+    <string name="hours_ago">%1$s saat önce</string>
+    <string name="days_ago">%1$s gün önce</string>
+    <string name="months_ago">%1$s ay önce</string>
+    <string name="select_departure_flight">Gidiş Uçuşunu Seçiniz</string>
+    <string name="select">Seç >></string>
+    <string name="select_return_flight">Dönüş Uçuşunu Seçiniz</string>
+
+</resources>
